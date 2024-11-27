@@ -1,9 +1,13 @@
-## Hi there 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=chriswmann&count_private=true&theme=tokyonight&showicons=true)]()
+<div align="center">
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chriswmann&langs_count=5&theme=tokyonight&hide=javascript,html,postscript,jupyter%20notebook,fortran,vue)]()
+  Head of Data at Overstone, working with a brilliant team on everything from web scraping to RAG.
+  
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chriswmann&langs_count=5&theme=tokyonight&hide=javascript,html,postscript,jupyter%20notebook,fortran,vue)]()
+  
+</div>
 
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=chriswmann&count_private=true&theme=tokyonight&showicons=true)]()
 
 <!--
 **chriswmann/chriswmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
