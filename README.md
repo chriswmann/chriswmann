@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriswmann)](https://github.com/chriswmann/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=chriswmann&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chriswmann&langs_count=5&theme=tokyonight)]()
+
 
 <!--
 **chriswmann/chriswmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
