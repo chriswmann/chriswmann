@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  Head of Data at Overstone, working with a brilliant team on everything from web scraping to RAG. This is my personal profile/repo - just what I tinker with in my spare time.
+  Head of Data at Overstone, working with a brilliant team on everything from web scraping to RAG. 
   
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chriswmann&langs_count=5&theme=tokyonight&hide=javascript,html,postscript,jupyter%20notebook,fortran,vue)]()
   
