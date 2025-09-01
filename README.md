@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  Head of Data at Overstone, working with a brilliant team on everything from web scraping to agentic deep research systems. 
+  Head of Data at Overstone, working with a brilliant team on everything from web scraping to agentic AI systems. 
   
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chriswmann&langs_count=5&theme=tokyonight&hide=javascript,html,postscript,jupyter%20notebook,fortran,vue)]()
   
