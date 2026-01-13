@@ -3,7 +3,9 @@
 
   Head of Data at Overstone, working with a brilliant team on everything from web scraping to agentic AI systems. 
   
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chriswmann&langs_count=5&theme=tokyonight&hide=javascript,html,postscript,jupyter%20notebook,fortran,vue)]()
+  ![Stats](./profile/stats.svg)
+  ![Top Languages](./profile/top-langs.svg)
+  ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
   
 </div>
 
