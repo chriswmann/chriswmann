@@ -4,7 +4,9 @@
   Head of Data at Overstone, working with a brilliant team on everything from web scraping to agentic AI systems. 
   
   ![Stats](./profile/stats.svg)
+  
   ![Top Languages](./profile/top-langs.svg)
+  
   ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
   
 </div>
